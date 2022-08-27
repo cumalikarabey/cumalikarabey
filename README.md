@@ -4,7 +4,7 @@
 ### Data Scientist
 --------------
 
-Hi everyone. I am Cumali. I work in a AI and machine learning. I am interested in ECG.
+Hi everyone. I am Cumali. I work in a AI and machine learning. I am interested in ECG, EEG.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [cumalikarabey@hotmail.com](mailto:cumalikarabey@hotmail.com)
