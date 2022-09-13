@@ -1,12 +1,12 @@
 ## Hi 👋 My name is Cumali KARABEY
 ===============================
 
-### Data Scientist
+### Data Science | Machine Learning
 --------------
 
 Hi everyone. I am Cumali. I work in a AI and machine learning. I am interested in ECG, EEG.
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [cumalikarabey@hotmail.com](mailto:cumalikarabey@hotmail.com)
 * 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Data Science, Machine Learning, Deep Learning Projects
