@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Cumali KARABEY
 ===============================
 
-### Data Scientist
+### Data Science | Machine Learning
 --------------
 
 Hi everyone. I am Cumali. I work in a AI and machine learning. I am interested in ECG, EEG.
