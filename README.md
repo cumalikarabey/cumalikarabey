@@ -1,17 +1,11 @@
 ## Hi 👋 I'm Cumali KARABEY
 ===============================
 
-### AI Engineer | Data Science | Deep Learning (ECG & EEG)
+### AI Engineer | Machine Learning | Deep Learning (ECG & EEG)
 
-I am an Electrical & Electronics Engineer specializing in **Artificial Intelligence, Machine Learning, and Signal Processing**.
+I am an AI Engineer specializing in Machine Learning and Deep Learning, with a strong focus on **biomedical signal processing (ECG & EEG)** and real-world AI applications.
 
-Currently, I work as a **Software Developer at Corpitall**, where I develop backend systems and financial data infrastructures, while also continuing my journey in **deep learning, biomedical signal analysis, and scalable AI systems**.
-
-I focus on building **real-world AI solutions**, especially in:
-- Biomedical signals (ECG, EEG)
-- Deep learning & computer vision
-- Financial data modeling & analytics
-- Scalable ML systems with container technologies
+Currently, I work as a **Software Developer at Corpitall**, where I develop backend systems and financial data infrastructures. I combine my software engineering skills with AI to build scalable, data-driven solutions.
 
 ---
 
@@ -19,8 +13,8 @@ I focus on building **real-world AI solutions**, especially in:
 
 - 📍 Based in İzmir, Türkiye  
 - 🎓 MSc in Electrical & Electronics Engineering (ongoing)  
-- 🧠 Passionate about Deep Learning & Signal Processing  
-- 🤝 Open to collaborations in AI / ML / Data Science  
+- 🧠 Focused on Deep Learning, Signal Processing & AI Systems  
+- 🤝 Open to collaboration on AI, ML and Data Science projects  
 
 ---
 
@@ -29,47 +23,47 @@ I focus on building **real-world AI solutions**, especially in:
 **Software Developer — Corpitall**  
 *Oct 2024 – Present*  
 - Developing backend systems using Node.js  
-- Designing financial data infrastructures and analytics pipelines  
-- Working on scalable accounting and reporting systems  
+- Designing financial data infrastructures  
+- Building scalable accounting and reporting systems  
 
 **Data Science — Amatis Development**  
 *Apr 2023 – Oct 2024*  
 - Worked on signal processing, image processing, and deep learning  
-- Built ML/DL models for complex datasets  
-- Developed scalable AI solutions using container technologies  
+- Developed ML/DL models for complex datasets  
+- Built scalable AI solutions using container technologies  
 
 **Intern — TÜBİTAK**  
-- Image processing & CNN model development  
+- Image processing and CNN model development  
 - Data cleaning and preprocessing  
 
 **Intern — İzmir Bakırçay University**  
-- Signal processing (ECG/EEG)  
-- CNN models & data augmentation  
+- Signal processing (ECG & EEG)  
+- CNN models and data augmentation  
 
 ---
 
-### 🔬 Featured Projects
+### 🔬 Projects
 
 🧠 **Emotion Analysis from EEG Signals**  
-- Predicted emotional states using ML techniques  
+- Predicted emotional states using machine learning techniques  
 
 ❤️ **Heart Anomaly Detection (ECG)**  
-- R-peak detection & signal processing  
-- Applied deep learning on biomedical signals  
+- R-peak detection and signal processing  
+- Applied machine learning and deep learning methods  
 
 🧬 **Prostate Cancer Detection (TÜBİTAK 1001)**  
-- Deep learning for MRI image segmentation  
-- Medical AI & quality assessment  
+- MRI image segmentation using deep learning  
+- Focused on medical image analysis and quality assessment  
 
 📸 **Biometric Face Segmentation**  
-- CNN-based facial segmentation & mask generation  
+- CNN-based facial segmentation and mask generation  
 
-💰 **ParamNerede (Financial AI System)**  
-- Node.js & React-based analytics platform  
-- Advanced financial reporting and integration  
+💰 **ParamNerede (Financial Analytics System)**  
+- Node.js & React-based financial data platform  
+- Advanced analytics and reporting  
 
 📊 **Cash Flow Projection System**  
-- 10-year financial forecasting system  
+- 10-year financial forecasting  
 - Scenario-based decision support  
 
 ---
@@ -96,20 +90,3 @@ Docker, Container Technologies
 - LinkedIn: https://www.linkedin.com/in/cumalikarabey  
 - Instagram: https://www.instagram.com/karabeycumali  
 - Email: cumalikarabey@hotmail.com  
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cumalikarabey&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cumalikarabey&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumalikarabey&layout=compact&theme=dark)
-
----
-
-### ⚡ Focus Areas
-
-- Biomedical AI (ECG, EEG)
-- Deep Learning Architectures
-- Financial Data Intelligence
-- Scalable AI Systems
