@@ -1,39 +1,115 @@
-## Hi 👋 My name is Cumali KARABEY
+## Hi 👋 I'm Cumali KARABEY
 ===============================
 
-### Data Science | Machine Learning
---------------
+### AI Engineer | Data Science | Deep Learning (ECG & EEG)
 
-Hi everyone. I am Cumali. I work in a AI and machine learning. I am interested in ECG, EEG.
+I am an Electrical & Electronics Engineer specializing in **Artificial Intelligence, Machine Learning, and Signal Processing**.
 
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [cumalikarabey@hotmail.com](mailto:cumalikarabey@hotmail.com)
-* 🧠  I'm learning Deep Learning
-* 🤝  I'm open to collaborating on Data Science, Machine Learning, Deep Learning Projects
+Currently, I work as a **Software Developer at Corpitall**, where I develop backend systems and financial data infrastructures, while also continuing my journey in **deep learning, biomedical signal analysis, and scalable AI systems**.
 
-### Skills
+I focus on building **real-world AI solutions**, especially in:
+- Biomedical signals (ECG, EEG)
+- Deep learning & computer vision
+- Financial data modeling & analytics
+- Scalable ML systems with container technologies
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+---
 
+### 🌍 About Me
 
-### Socials
+- 📍 Based in İzmir, Türkiye  
+- 🎓 MSc in Electrical & Electronics Engineering (ongoing)  
+- 🧠 Passionate about Deep Learning & Signal Processing  
+- 🤝 Open to collaborations in AI / ML / Data Science  
 
-<p align="left"> <a href="https://www.github.com/cumalikarabey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/karabeycumali" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cumalikarabey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+### 💼 Professional Experience
 
-<b>My GitHub Stats</b>
+**Software Developer — Corpitall**  
+*Oct 2024 – Present*  
+- Developing backend systems using Node.js  
+- Designing financial data infrastructures and analytics pipelines  
+- Working on scalable accounting and reporting systems  
 
-<a href="http://www.github.com/cumalikarabey"><img src="https://github-readme-stats.vercel.app/api?username=cumalikarabey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cumalikarabey's GitHub stats" /></a>
+**Data Science — Amatis Development**  
+*Apr 2023 – Oct 2024*  
+- Worked on signal processing, image processing, and deep learning  
+- Built ML/DL models for complex datasets  
+- Developed scalable AI solutions using container technologies  
 
-<a href="http://www.github.com/cumalikarabey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cumalikarabey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Intern — TÜBİTAK**  
+- Image processing & CNN model development  
+- Data cleaning and preprocessing  
 
-<a href="http://www.github.com/cumalikarabey"><img src="https://activity-graph.herokuapp.com/graph?username=cumalikarabey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Intern — İzmir Bakırçay University**  
+- Signal processing (ECG/EEG)  
+- CNN models & data augmentation  
 
-<a href="https://github.com/cumalikarabey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumalikarabey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🔬 Featured Projects
+
+🧠 **Emotion Analysis from EEG Signals**  
+- Predicted emotional states using ML techniques  
+
+❤️ **Heart Anomaly Detection (ECG)**  
+- R-peak detection & signal processing  
+- Applied deep learning on biomedical signals  
+
+🧬 **Prostate Cancer Detection (TÜBİTAK 1001)**  
+- Deep learning for MRI image segmentation  
+- Medical AI & quality assessment  
+
+📸 **Biometric Face Segmentation**  
+- CNN-based facial segmentation & mask generation  
+
+💰 **ParamNerede (Financial AI System)**  
+- Node.js & React-based analytics platform  
+- Advanced financial reporting and integration  
+
+📊 **Cash Flow Projection System**  
+- 10-year financial forecasting system  
+- Scenario-based decision support  
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:**  
+Python, JavaScript (Node.js), SQL  
+
+**AI & Data:**  
+Machine Learning, Deep Learning, TensorFlow, Scikit-Learn  
+
+**Specializations:**  
+Signal Processing (ECG, EEG), Image Processing  
+
+**Tools:**  
+Docker, Container Technologies  
+
+---
+
+### 🌐 Connect With Me
+
+- GitHub: https://github.com/cumalikarabey  
+- LinkedIn: https://www.linkedin.com/in/cumalikarabey  
+- Instagram: https://www.instagram.com/karabeycumali  
+- Email: cumalikarabey@hotmail.com  
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cumalikarabey&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cumalikarabey&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumalikarabey&layout=compact&theme=dark)
+
+---
+
+### ⚡ Focus Areas
+
+- Biomedical AI (ECG, EEG)
+- Deep Learning Architectures
+- Financial Data Intelligence
+- Scalable AI Systems
